@@ -39,7 +39,7 @@
 ---
 
 ## 📈 GitHub Stats
-![yoshirodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshirodev&show_icons=true&hide=prs&count_private=true&theme=tokyonight)
+![yoshirodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshirodev&show_icons=true&count_private=true&theme=tokyonight&token=YOUR_TOKEN_HERE)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshirodev&layout=compact&theme=tokyonight)
 
 ---
