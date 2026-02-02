@@ -27,7 +27,7 @@
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-nakumatoes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nakumatoes)
-[![UNC School Account](https://img.shields.io/badge/UNC%20School%20Account-yoshi--UNC-0072C6?style=for-the-badge)]([https://unc.edu.ph/](https://github.com/yoshi-UNC))
+[![UNC School Account](https://img.shields.io/badge/UNC%20School%20Account-yoshi--UNC-0072C6?style=for-the-badge)](https://github.com/yoshi-UNC)
 
 ---
 
