@@ -1,7 +1,7 @@
 # 👋 Hi, I'm yoshirodev!
 
 #### 🎓 Student at University of Nueva Caceres
-#### 💡 Member of Development Garage Organization
+#### 💡 Member of DGO
 #### 🏷️ Tagline: *code it until you make it*
 
 ---
