@@ -28,7 +28,7 @@
 
 ## Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-insertionsortalgorithm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/insertionsortalgorithm)
+[![Instagram](https://img.shields.io/badge/Instagram-max_imum.occupancy120-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/max_imum.occupancy120)
 [![UNC School Account](https://img.shields.io/badge/UNC%20School%20Account-yoshi--UNC-0072C6?style=for-the-badge)](https://github.com/yoshi-UNC)
 
 ---
