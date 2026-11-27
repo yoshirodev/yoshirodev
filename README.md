@@ -1,6 +1,6 @@
 # yoshirodev
 
-**Information Technology Student at University of Nueva Caceres** | **Member of Development Garage**
+**Information Technology Student at University of Nueva Caceres** | **Member of RoSa**
 
 > *code it until you make it* — and if no matter where you go, everyone is connected, you might as well build something worth connecting to.
 
